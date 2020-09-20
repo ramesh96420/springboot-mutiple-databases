@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=iDogrHEo4x0
+
+EndPoints:
+----------
+http://localhost:8080/getUsers
+http://localhost:8080/getBooks
